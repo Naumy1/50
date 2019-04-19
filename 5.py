@@ -38,10 +38,10 @@ g1 = LINE('')
 print ("===============[ GHOST LOGIN SUKSES]===============\n")
 
 myMid = line.profile.mid
-creator = ["u476519fe4ef4a83cfd8d120c0b9c9a38"]
-owner = ["u476519fe4ef4a83cfd8d120c0b9c9a38"]
-admin = ["u476519fe4ef4a83cfd8d120c0b9c9a38"]
-staff = ["u476519fe4ef4a83cfd8d120c0b9c9a38"]
+creator = ["ube7e5b15dbea0cc92f2067c04d25b1fc"]
+owner = ["ube7e5b15dbea0cc92f2067c04d25b1fc"]
+admin = ["ube7e5b15dbea0cc92f2067c04d25b1fc"]
+staff = ["ube7e5b15dbea0cc92f2067c04d25b1fc"]
 Amid = kicker.getProfile().mid
 Bmid = kicker2.getProfile().mid
 Cmid = kicker3.getProfile().mid
@@ -473,23 +473,23 @@ def executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey):
             start = time.time()
             kicker.sendMessage(to, "กำลังทดสอบ")          
             elapsed_time = time.time() - start
-            kicker.sendMessage("u47d41cc45c4576282d0c52ce4d5b5856", ".")
+            kicker.sendMessage("ube7e5b15dbea0cc92f2067c04d25b1fc", ".")
             elapsed_time = time.time() - start
             kicker.sendMessage(msg.to, "[ %s Seconds ] " % (elapsed_time))
             start = time.time()
-            kicker2.sendMessage("u47d41cc45c4576282d0c52ce4d5b5856", ".")
+            kicker2.sendMessage("ube7e5b15dbea0cc92f2067c04d25b1fc", ".")
             elapsed_time = time.time() - start            
             kicker2.sendMessage(msg.to, "[ %s Seconds ] " % (elapsed_time))  
             start = time.time()
-            kicker3.sendMessage("u47d41cc45c4576282d0c52ce4d5b5856", ".")
+            kicker3.sendMessage("ube7e5b15dbea0cc92f2067c04d25b1fc", ".")
             elapsed_time = time.time() - start                 
             kicker3.sendMessage(msg.to, "[ %s Seconds ] " % (elapsed_time))
             start = time.time()
-            kicker4.sendMessage("u47d41cc45c4576282d0c52ce4d5b5856", ".")
+            kicker4.sendMessage("ube7e5b15dbea0cc92f2067c04d25b1fc", ".")
             elapsed_time = time.time() - start            
             kicker4.sendMessage(msg.to, "[ %s Seconds ] " % (elapsed_time)) 
             start = time.time()
-            kicker5.sendMessage("u47d41cc45c4576282d0c52ce4d5b5856", ".")
+            kicker5.sendMessage("ube7e5b15dbea0cc92f2067c04d25b1fc", ".")
             elapsed_time = time.time() - start                
             kicker5.sendMessage(msg.to, "[ %s Seconds ] " % (elapsed_time))
 #===========Protection============#
